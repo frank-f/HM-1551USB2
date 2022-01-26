@@ -1,0 +1,11 @@
+*-backups/
+Gerber/
+panel/
+fp-info-cache
+*.kicad_prl
+*.csv
+*.tsv
+*.xml
+*.bak
+*.zip
+layout.cfg

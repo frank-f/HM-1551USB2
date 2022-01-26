@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HM-1551USB2-rescue)(type Legacy)(uri ${KIPRJMOD}/HM-1551USB2-rescue.lib)(options "")(descr ""))
+)
