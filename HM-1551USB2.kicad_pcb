@@ -777,7 +777,7 @@
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000061aee4d3")
     (attr smd)
-    (fp_text reference "ANT1" (at 0 -4.5 180 unlocked) (layer "F.SilkS")
+    (fp_text reference "ANT1" (at 0 -4.5 180 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f6a5cab3-78e5-4acf-8c67-f401df2846d0)
     )
@@ -849,7 +849,7 @@
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000061ba9866")
     (attr exclude_from_pos_files)
-    (fp_text reference "H1" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "H1" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3d213c37-de80-490e-9f45-2814d3fc958b)
     )
@@ -980,7 +980,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
       (tstamp f7475c2a-e91e-435c-bec2-3307ef3e1f94)
     )
-    (fp_text user "ANT" (at 13.29436 -0.41656) (layer "B.SilkS")
+    (fp_text user "ANT" (at 13.29436 -0.41656) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp fe1c93f4-4468-424b-a088-27aef08b62b4)
     )
